@@ -19,6 +19,8 @@ O projeto foi feito como parte do meu portfólio prático de sistemas embarcados
 
 ▶️ [Abrir a simulação no Wokwi](https://wokwi.com/projects/476881465503316993)
 
+📹 [Veja o projeto sendo montado](https://youtu.be/POkz747I_-I)
+
 ---
 
 ## 🛠 Ferramentas utilizadas
