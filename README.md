@@ -284,4 +284,4 @@ Outros projetos de sistemas embarcados serão postados em breve, com níveis de 
 
 ---
 
-## 👤 Autor: Bruno Zucker
+## 👤 Autor: Bruno Maker
